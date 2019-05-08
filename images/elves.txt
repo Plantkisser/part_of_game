@@ -1,0 +1,17 @@
+10
+1 417
+1 625
+1 521
+96 102
+74 20
+11 80
+
+frame amount
+down
+up
+left
+width height
+
+collision:
+width height
+start coordinates
